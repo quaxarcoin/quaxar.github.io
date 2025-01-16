@@ -1,6 +1,6 @@
 # Quaxar: The Next Frontier of Finance
 
-Quaxar is an open-source cryptocurrency platform designed to revolutionize the world of finance. This repository contains the source code for the official Quaxar website.
+Quaxar is an open-source cryptocurrency platform designed to revolutionize the world of finance. This repository contains the source code for the official github page for Quaxar documentation website.
 
 ### For View:  
 Go to [quaxar.github.io](https://quaxar.github.io)
