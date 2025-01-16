@@ -6,7 +6,7 @@ Quaxar is an open-source cryptocurrency platform designed to revolutionize the w
 Go to [quaxar.github.io](https://quaxar.github.io)
 
 ## Contributing
-We welcome contributions! Fork the repo, create a new branch, and submit a pull request.
+I've welcome contributions! Fork the repo, create a new branch, and submit a pull request.
 
 ## License
 MIT License
