@@ -75,9 +75,9 @@ Help us spread the word and grow the Quaxar ecosystem by engaging with your loca
 ## **Stay Connected**  
 
 📢 **Follow Us**  
-- **Twitter**: [@Quaxar_Org](#)  
+- **Twitter**: [Quaxar_Org](https://x.com/quaxar_org)
 - **Discord**: [Quaxar Org](https://discord.gg/hbKG9jCt)]
-- **Telegram Channel**: [@Quaxar_Org](#) 
+- **Telegram Channel**: [Quaxar Org](https://t.mequaxar_org)]
 
 📧 **Contact Us**: [roshaanakther.nrf@gmail.com](#)  
 
